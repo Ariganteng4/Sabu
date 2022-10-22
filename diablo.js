@@ -249,11 +249,11 @@ jiren = `
 亗├ • ${prefix}stats ( untuk cek status )
 亗├ • ${prefix}restart ( untuk restart )
 亗├──────────────────┈
-亗├ 「pricelist bot lain」
-亗├ -UBAH WA JADI BOT 80K
-亗├ -SEWA 35K
-亗├ -JADI MEMBER 15K
-亗├ BISA KUNJUNGI WA wa.me/62831116373508
+亗├ 「AREX CYBERVIP」
+亗├ 
+亗├ 
+亗├ 
+
 亗├──────────────────┈
 `
 diablobotwhatsapp.reply(jiren)
